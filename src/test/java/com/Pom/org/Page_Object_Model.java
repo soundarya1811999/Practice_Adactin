@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class Page_Object_Model {
 	
 	public static WebDriver driver;
-
+//Practice_Adactin
 	@FindBy(id ="username")
 	private WebElement name;
 	@FindBy(id="password")
